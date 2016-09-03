@@ -3,5 +3,7 @@ Simple python2 qt4 implementation of Conway's Game of Life. Hacked together one 
 
 dependencies:
 - QT4
-- Python2 
+- Python2
+
+
 :)
